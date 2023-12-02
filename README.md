@@ -1,6 +1,6 @@
-# Tasty Routes 😋
+# FlavorDish 😋
 
-Introducing "Tasty Routes 😋" a food ordering web application crafted with the powerful MERN stack—MongoDB, Express.js, React.js, and Node.js. This innovative platform seamlessly integrates the best of each technology to provide users with a delightful and efficient dining experience.
+Introducing "FlavorDish 😋" a food ordering web application crafted with the powerful MERN stack—MongoDB, Express.js, React.js, and Node.js. This innovative platform seamlessly integrates the best of each technology to provide users with a delightful and efficient dining experience.
 
 ---
 ## Requirements
@@ -34,9 +34,3 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
     $ npm run backend
     $ npm start
 
-# ScreenShots
-<!-- ## Home Page -->
-![Home Page](public/ss-home.png)
----
-<!-- ## Signup Page -->
-![Signup Page](public/ss-signup.png)
