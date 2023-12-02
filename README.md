@@ -23,12 +23,6 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ###
 
-## Install
-
-    $ git clone https://github.com/vikas-6511/Tasty-Routes.git
-    $ cd Tasty-Routes
-    $ npm install
-
 ## Running the project
 
     $ npm run backend
